@@ -3,6 +3,7 @@ Thumbs.db
 ehthumbs.db
 
 node_modules/
+index.build.js
 npm-debug.log.*
 
 # Folder config file
