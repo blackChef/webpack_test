@@ -6,5 +6,8 @@
   "scripts": {
     "normal": "webpack",
     "optimize": "webpack --optimize-minimize"
+  },
+  "devDependencies": {
+    "webpack": "^3.4.1"
   }
 }
